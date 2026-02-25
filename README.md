@@ -1,6 +1,9 @@
 # online-store-database
 MySQL relational database project for an online store implementing PK, FK, constraints and SQL queries.
 
+## Database ER Diagram
+![ER Diagram](er-diagram.png)
+
 # 🛒 Online Store Database (MySQL)
 
 This project demonstrates the design of a relational database for an e-commerce store using MySQL.
